@@ -1,6 +1,7 @@
 ## Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
+
 2.1. [Questions of Interest](#questions-of-interest)
 3. [File Descriptions](#file-descriptions)
 4. [Results](#results)
@@ -28,6 +29,7 @@ As a "constant reader" (to proudly quote Stephen King)
 
 ## File Descriptions
 The jupyter notebook **best-books-prediction.ipynb** contains the project code, visualizations and results. 
+
 The input data is provided in an own folder **input_data/goodreads_books_chunk_*** split into 5 .csv files.
 
 ## Results
