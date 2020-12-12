@@ -18,7 +18,7 @@ The code was developped using Python 3.7.9. Necessary packages are:
 - matplotlib
 - scikit-learn
 
-The environment can be recreated using the **requirements.txt** or **environment.yml** file in this repository.
+The environment can be recreated using the [requirements.txt](https://github.com/MareikeHeller/goodreads-best-books/blob/main/requirements.txt) or [environment.yml](https://github.com/MareikeHeller/goodreads-best-books/blob/main/environment.yml) file in this repository.
 
 ## Project Motivation
 Using data of a well-know social cataloging web application (Goodreads) on the best books ever according to users' votings, I was interested in the following questions:
