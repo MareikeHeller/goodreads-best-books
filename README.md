@@ -30,12 +30,12 @@ Using data of a well-know social cataloging web application (Goodreads) on the b
 4. How well can we predict whether a book will be award winning or not by publicly available data from a social cataloging web application?
 
 ## File Descriptions
-The jupyter notebook **best-books-prediction.ipynb** contains the project code, visualizations and results. 
+The jupyter notebook **[best-books-prediction.ipynb]**(https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-prediction.ipynb) contains the project code, visualizations and results. 
 
 The input data is provided in an own folder **input_data/goodreads_books_chunk_*** split into 5 .csv files.
 
 ## Results
-The results to the questions of interest in this project are contained in the respective sections of the jupyter notebook and further described in this [medium blog post]().
+The results to the questions of interest in this project are contained in the respective sections of the [jupyter notebook](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-prediction.ipynb) and further described in this [medium blog post]().
 - striking: most books are recent books with a peak around 2013 (mode)
 - how reliable are ratings when any user, whether they read the book or not could rate?
 - variation reduction by looking at the creme de la creme
