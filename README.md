@@ -32,7 +32,7 @@ Using data of a well-know social cataloging web application (Goodreads) on the b
 ## File Descriptions
 The jupyter notebook [best-books-prediction.ipynb](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-prediction.ipynb) contains the project code, visualizations and results. 
 
-The input data is provided in an own folder [input_data/goodreads_books_chunk_1(-5)](https://github.com/MareikeHeller/goodreads-best-books/tree/main/input_data) split into 5 .csv files.
+The input data is provided in a separate folder [input_data/goodreads_books_chunk_1(-5)](https://github.com/MareikeHeller/goodreads-best-books/tree/main/input_data) split into 5 .csv files.
 
 ## Results
 The results to the questions of interest in this project are contained in the respective sections of the [jupyter notebook](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-prediction.ipynb) and further described in this [medium blog post]().
