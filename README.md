@@ -35,7 +35,7 @@ The jupyter notebook [best-books-classification.ipynb](https://github.com/Mareik
 The input data is provided in a separate folder [input_data/goodreads_books_chunk_1(-5)](https://github.com/MareikeHeller/goodreads-best-books/tree/main/input_data) split into 5 .csv files.
 
 ## Results
-The results to the questions of interest in this project are contained in the respective sections of the [jupyter notebook](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-classification.ipynb) and further described in this [medium blog post]().
+The results to the questions of interest in this project are contained in the respective sections of the [jupyter notebook](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-classification.ipynb) and further described in this [medium blog post](https://mareikeheller.medium.com/this-is-how-book-awards-and-book-ratings-are-not-the-same-a720be77404e).
 
 However, it is worthy of note that the underlying dataset already contains the best rated books. Thus, this project looks at a very selective sample with reduced variation. 
 
