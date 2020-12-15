@@ -30,12 +30,12 @@ Using data of a well-know social cataloging web application (Goodreads) on the b
 4. How well can we predict whether a book will be award winning or not?
 
 ## File Descriptions
-The jupyter notebook [best-books-prediction.ipynb](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-prediction.ipynb) contains the project code, visualizations and results. 
+The jupyter notebook [best-books-classification.ipynb](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-classification.ipynb) contains the project code, visualizations and results. 
 
 The input data is provided in a separate folder [input_data/goodreads_books_chunk_1(-5)](https://github.com/MareikeHeller/goodreads-best-books/tree/main/input_data) split into 5 .csv files.
 
 ## Results
-The results to the questions of interest in this project are contained in the respective sections of the [jupyter notebook](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-prediction.ipynb) and further described in this [medium blog post]().
+The results to the questions of interest in this project are contained in the respective sections of the [jupyter notebook](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-classification.ipynb) and further described in this [medium blog post]().
 
 However, it is worthy of note that the underlying dataset already contains the best rated books. Thus, this project looks at a very selective sample with reduced variation. 
 
