@@ -24,10 +24,10 @@ The environment can be recreated using the [requirements.txt](https://github.com
 Using data of a well-know social cataloging web application (Goodreads) on the best books ever according to users' votings, I was interested in the following questions:
 
 ### Questions of Interest
-1. Is there a shift in popularity measures over time? Are books from certain time periods generally more popular?
-2. What genres are most popular and how did genre popularity develop over time?
-3. Are readers' ratings on books reflected in winning an award granted by a committee?
-4. How well can we predict whether a book will be award winning or not by publicly available data from a social cataloging web application?
+1. Are books from certain time periods generally more popular?
+2. What genres are most popular (over time)?
+3. Are readers' ratings on books reflected in winning an award?
+4. How well can we predict whether a book will be award winning or not?
 
 ## File Descriptions
 The jupyter notebook [best-books-prediction.ipynb](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-prediction.ipynb) contains the project code, visualizations and results. 
