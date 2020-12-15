@@ -7,18 +7,13 @@
 5. [Licensing, Authors, Acknowledgements](#licensing-authors-acknowledgements)
 
 ## Installation
-The code was developped using Python 3.7.9. Necessary packages are:
-- glob
-- time
-- random
-- functools
-- pandas
-- numpy
-- seaborn
-- matplotlib
-- scikit-learn
+The code was developped using Python 3.7.9. Necessary packages beyond the Python Standard Library are:
 
-The environment can be recreated using the [requirements.txt](https://github.com/MareikeHeller/goodreads-best-books/blob/main/requirements.txt) or [environment.yml](https://github.com/MareikeHeller/goodreads-best-books/blob/main/environment.yml) file in this repository.
+- pandas=1.1.3=py37ha925a31_0
+- numpy=1.19.2=py37hadc3359_0
+- seaborn=0.11.0=py_0
+- matplotlib=3.3.2=0
+- scikit-learn=0.23.2=py37h47e9c7a_0
 
 ## Project Motivation
 Using data of a well-know social cataloging web application (Goodreads) on the best books ever according to users' votings, I was interested in the following questions:
