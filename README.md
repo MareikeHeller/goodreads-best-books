@@ -36,9 +36,8 @@ The input data is provided in a separate folder [input_data/goodreads_books_chun
 
 ## Results
 The results to the questions of interest in this project are contained in the respective sections of the [jupyter notebook](https://github.com/MareikeHeller/goodreads-best-books/blob/main/best-books-prediction.ipynb) and further described in this [medium blog post]().
-- striking: most books are recent books with a peak around 2013 (mode)
-- how reliable are ratings when any user, whether they read the book or not could rate?
-- variation reduction by looking at the creme de la creme
+
+However, it is worthy of note that the underlying dataset already contains the best rated books. Thus, this project looks at a very selective sample with reduced variation. 
 
 ## Licensing, Authors, Acknowledgements
 The data used in this project is publicly available on [kaggle.com](https://www.kaggle.com/austinreese/goodreads-books) (License: CC0: Public Domain). The data on kaggle was originally scraped from [this Goodreads list](https://www.goodreads.com/list/show/1.Best_Books_Ever). I would like to acknowledge the Stack Overflow community that pushed my learning process. 
