@@ -7,7 +7,7 @@
 5. [Licensing, Authors, Acknowledgements](#licensing-authors-acknowledgements)
 
 ## Installation
-The code was developped using Python 3.7.9. Necessary packages beyond the Python Standard Library are:
+The code was developped using Python 3.7.9 on Windows 10. Necessary packages beyond the Python Standard Library are:
 
 - pandas=1.1.3=py37ha925a31_0
 - numpy=1.19.2=py37hadc3359_0
